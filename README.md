@@ -17,5 +17,5 @@ Study Buddy is a platform that helps students study together by creating study g
 - Backend: Node.js, MongoDB  
 
 
-## Why This Project:  
+## Why This   Project:  
 I chose this project because it’s a fun way to help students study more effectively while improving my skills in both frontend and backend development. The real-time chat and gamification elements make it more engaging, and I get to build something that has a positive impact on learning.
