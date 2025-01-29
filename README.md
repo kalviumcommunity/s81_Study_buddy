@@ -12,7 +12,7 @@ Study Buddy is a platform that helps students study together by creating study g
 - Real-time Chat: Chat with study buddies.  
 
 
-## Tech Stack  :   
+## Tech Stack:   
 - Frontend: React.js, Material-UI  
 - Backend: Node.js, MongoDB  
 
