@@ -10,7 +10,7 @@ Study Buddy is a platform that helps students study together by creating study g
 - Progress Tracker: Track your study progress.  
 - Discussion Boards: Discuss and ask questions in forums.  
 - Real-time Chat: Chat with study buddies.  
-- Gamification: Earn rewards for study progress.
+
 
 ** Tech Stack: **  
 - Frontend: React.js, Material-UI  
