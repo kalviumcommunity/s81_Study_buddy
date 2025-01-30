@@ -1,7 +1,11 @@
 # Project Title: Study Buddy
 
+
+
 ## Project Overview:  
 Study Buddy is a platform that helps students study together by creating study groups, sharing resources, and tracking progress. It aims to make studying more interactive and fun by connecting students with peers and offering tools to stay on track.
+
+
 
 ## Key Features:
 - Study Groups: Join or create groups based on subjects.  
@@ -11,6 +15,8 @@ Study Buddy is a platform that helps students study together by creating study g
 - Discussion Boards: Discuss and ask questions in forums.  
 - Real-time Chat: Chat with study buddies.  
 - Gamification: Earn rewards for study progress.
+
+
 
 ## Tech Stack:  
 - Frontend: React.js, Material-UI  
